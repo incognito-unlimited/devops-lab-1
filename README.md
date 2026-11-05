@@ -1,4 +1,4 @@
-# devops-lab1-1
+# devops-lab-1
 
 ENSP461 - DevOps and Automation, Lab 1: DevOps Foundations & Continuous Integration.
 
